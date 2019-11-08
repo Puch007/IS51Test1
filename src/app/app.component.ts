@@ -15,6 +15,5 @@ export class AppComponent implements OnInit {
 
   ngOnInit() {
   }
+  open() { alert ('This appliation is designed by Jose Hernandez(C) 2018' ); } }
 
-
-}
